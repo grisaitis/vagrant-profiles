@@ -1,0 +1,8 @@
+    1  sudo apt-add-repository ppa:webupd8team/java
+    2  sudo apt-get update
+    3  sudo apt-get install oracle-java8-installer
+    4  java
+    5  java -v
+    6  java -version
+    7  exit
+    8  history > /vagrant/history.txt
